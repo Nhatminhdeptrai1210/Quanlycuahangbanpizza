@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DoAn_QuanLyBanPizza">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DoAn_QuanLyBanPizza.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
